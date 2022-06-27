@@ -1,0 +1,10 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10%;
+    padding: 20px;
+
+    box-sizing: border-box; // utiliza como referencia a borda da "caixa"
+
+}
